@@ -1,5 +1,5 @@
 {
-  "name": "@react-native-community/image-editor",
+  "name": "@melatech/image-editor",
   "version": "2.3.0",
   "description": "React Native Image Editing native modules for iOS & Android",
   "main": "lib/ImageEditor.js",
